@@ -12,4 +12,4 @@ Snake game built with JavaFX and Maven.
    ```
 # Snapshot
 <br>
-<img src="https://github.com/karimelkheshen/snake/blob/main/img/snapshot.png" alt="Passgen" height="300" width="800">
+<img src="https://github.com/karimelkheshen/snake/blob/master/img/snapshot.png" alt="Passgen" height="500" width="500">
