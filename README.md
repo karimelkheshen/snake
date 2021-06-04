@@ -1,7 +1,7 @@
 # snake
 Snake game built with JavaFX and Maven.  
 
-# Launch as executable
+# Launch as executable (MacOS)
 1. Download the snake.zip file inside the **executable** directory above and extract
 3. Open `Terminal`.
 4. Run the following commands to launch the application
