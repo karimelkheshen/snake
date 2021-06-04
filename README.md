@@ -2,9 +2,8 @@
 Snake game built with JavaFX and Maven.  
 
 # Launch as executable
-1. Download the snake.zip file inside the **executable** directory above.
-2. Unzip snake.zip
-3. Open `Terminal` or `Powershell`.
+1. Download the snake.zip file inside the **executable** directory above and extract
+3. Open `Terminal`.
 4. Run the following commands to launch the application
    ```sh
    $ cd snake/bin
